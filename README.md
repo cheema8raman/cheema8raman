@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Raman 
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning about Unsupervised Learning
-- 💞️ I’m looking to collaborate on Data Science related projets 
+- 🌱 I’m currently doing project on Classifying events using Audio Signals 
+- 👩🏻‍💻 Also, preparing extensively for Data Science interviews 
+- 💞️ I’m looking to collaborate on Data Science projets 
 - 📫 How to reach me cheema8raman@gmail.com
 
 <!---
